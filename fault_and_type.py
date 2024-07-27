@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 11 18:13:54 2018
-
-@author: Prashant
+@author: Kanishka
 """
 
 ### Road-user data
